@@ -1,0 +1,386 @@
+[
+    {
+        "SKU": "002-101-001-005",
+        "Description": "10W-40 STEF 24X1",
+        "Remaining": 9,
+        "Storage": 9.0
+    },
+    {
+        "SKU": "002-101-001-008",
+        "Description": "10W-40 STEF 6X4",
+        "Remaining": 6,
+        "Storage": 6.0
+    },
+    {
+        "SKU": "002-101-009-002",
+        "Description": "ADBLUE 10LIT",
+        "Remaining": 3,
+        "Storage": 5.0
+    },
+    {
+        "SKU": "002-101-004-007",
+        "Description": "AGRO COTT BAP",
+        "Remaining": 0,
+        "Storage": 0.0
+    },
+    {
+        "SKU": "002-101-009-007",
+        "Description": "ANTIFREEZE 16KG",
+        "Remaining": 17,
+        "Storage": 7.0
+    },
+    {
+        "SKU": "002-101-LIT-014",
+        "Description": "ANTIFREEZE 1LT",
+        "Remaining": -20,
+        "Storage": null
+    },
+    {
+        "SKU": "002-101-009-014",
+        "Description": "ANTIFREEZE 24X1",
+        "Remaining": 15,
+        "Storage": 12.0
+    },
+    {
+        "SKU": "002-101-009-018",
+        "Description": "ANTIFREEZE 6X4",
+        "Remaining": 23,
+        "Storage": 9.0
+    },
+    {
+        "SKU": "002-101-009-026",
+        "Description": "ANTIFROST 24X1",
+        "Remaining": -2,
+        "Storage": 1.0
+    },
+    {
+        "SKU": "002-101-003-001",
+        "Description": "ATF 18LIT",
+        "Remaining": 1,
+        "Storage": 1.0
+    },
+    {
+        "SKU": "002-101-003-004",
+        "Description": "ATF 24X1",
+        "Remaining": 9,
+        "Storage": 7.0
+    },
+    {
+        "SKU": "002-101-003-007",
+        "Description": "ATF 6X4",
+        "Remaining": 1,
+        "Storage": 1.0
+    },
+    {
+        "SKU": "002-101-009-039",
+        "Description": "BRAKE FLUID DOT 3 48X200",
+        "Remaining": 5,
+        "Storage": 5.0
+    },
+    {
+        "SKU": "002-101-009-047",
+        "Description": "BRAKE FLUID DOT 4 48X200",
+        "Remaining": 1,
+        "Storage": 1.0
+    },
+    {
+        "SKU": "002-101-001-056",
+        "Description": "CASH SUPER 15W-40 6X4",
+        "Remaining": 8,
+        "Storage": 8.0
+    },
+    {
+        "SKU": "002-101-001-065",
+        "Description": "CASH SUPER 20W-50 18 LIT",
+        "Remaining": 6,
+        "Storage": 4.0
+    },
+    {
+        "SKU": "001-101-001-070",
+        "Description": "CASH SUPER 20W-50 24X1",
+        "Remaining": 6,
+        "Storage": 2.0
+    },
+    {
+        "SKU": "002-101-001-075",
+        "Description": "CASH SUPER 20W-50 6X4",
+        "Remaining": 10,
+        "Storage": 6.0
+    },
+    {
+        "SKU": "002-101-001-081",
+        "Description": "CASH SUPER STEF 15W-50 24X1 LIT",
+        "Remaining": 4,
+        "Storage": 4.0
+    },
+    {
+        "SKU": "002-999-999-021",
+        "Description": "CASH SUPER STEF 15W-50 6X4",
+        "Remaining": 6,
+        "Storage": 6.0
+    },
+    {
+        "SKU": "002-999-999-007",
+        "Description": "DIESEL CLEAN 6X1",
+        "Remaining": 2,
+        "Storage": 2.0
+    },
+    {
+        "SKU": "002-101-002-002",
+        "Description": "ERGOL 10 15lit",
+        "Remaining": 46,
+        "Storage": 36.0
+    },
+    {
+        "SKU": "002-101-002-007",
+        "Description": "ERGOL 10 24X1",
+        "Remaining": 11,
+        "Storage": 9.0
+    },
+    {
+        "SKU": "002-101-002-011",
+        "Description": "ERGOL 10 6X4",
+        "Remaining": 23,
+        "Storage": 20.0
+    },
+    {
+        "SKU": "002-101-001-100",
+        "Description": "ERGOL 20W-50 18LIT",
+        "Remaining": 27,
+        "Storage": 25.0
+    },
+    {
+        "SKU": "002-101-001-106",
+        "Description": "ERGOL 20W-50 6X4",
+        "Remaining": 15,
+        "Storage": 15.0
+    },
+    {
+        "SKU": "002-101-002-023",
+        "Description": "ERGOL 30 15 lit",
+        "Remaining": 167,
+        "Storage": 67.0
+    },
+    {
+        "SKU": "002-101-002-029",
+        "Description": "ERGOL 30 24X1",
+        "Remaining": 15,
+        "Storage": 10.0
+    },
+    {
+        "SKU": "002-101-002-034",
+        "Description": "ERGOL 30 6X4",
+        "Remaining": 15,
+        "Storage": 8.0
+    },
+    {
+        "SKU": "002-101-003-021",
+        "Description": "GEAR OIL 140 24X1",
+        "Remaining": 1,
+        "Storage": 1.0
+    },
+    {
+        "SKU": "002-101-003-024",
+        "Description": "GEAR OIL 140 6X4",
+        "Remaining": 1,
+        "Storage": 1.0
+    },
+    {
+        "SKU": "002-101-003-061",
+        "Description": "GEAR OIL 80 24X1",
+        "Remaining": 1,
+        "Storage": 1.0
+    },
+    {
+        "SKU": "002-101-003-064",
+        "Description": "GEAR OIL 80 6X4",
+        "Remaining": 2,
+        "Storage": 2.0
+    },
+    {
+        "SKU": "002-101-003-074",
+        "Description": "GEAR OIL 80W-90 18LIT",
+        "Remaining": 6,
+        "Storage": 4.0
+    },
+    {
+        "SKU": "002-101-003-078",
+        "Description": "GEAR OIL 80W-90 24X1",
+        "Remaining": 4,
+        "Storage": 2.0
+    },
+    {
+        "SKU": "002-101-003-081",
+        "Description": "GEAR OIL 80W-90 6X4",
+        "Remaining": 5,
+        "Storage": 6.0
+    },
+    {
+        "SKU": "002-101-003-108",
+        "Description": "GEAR OIL 85W-140 24X1",
+        "Remaining": 1,
+        "Storage": 1.0
+    },
+    {
+        "SKU": "002-101-003-096",
+        "Description": "GEAR OIL 90 18LIT",
+        "Remaining": 20,
+        "Storage": 11.0
+    },
+    {
+        "SKU": "002-101-003-100",
+        "Description": "GEAR OIL 90 24X1",
+        "Remaining": 1,
+        "Storage": 1.0
+    },
+    {
+        "SKU": "002-101-003-103",
+        "Description": "GEAR OIL 90 6X4",
+        "Remaining": 6,
+        "Storage": 5.0
+    },
+    {
+        "SKU": "002-101-003-109",
+        "Description": "GEAR OIL 90 GL-5 4L",
+        "Remaining": 0,
+        "Storage": 0.0
+    },
+    {
+        "SKU": "002-102-102-014",
+        "Description": "HYDRAULIC ISO 46 18LIT",
+        "Remaining": 8,
+        "Storage": 8.0
+    },
+    {
+        "SKU": "002-102-102-022",
+        "Description": "HYDRAULIC ISO 68 18LIT",
+        "Remaining": 12,
+        "Storage": 6.0
+    },
+    {
+        "SKU": "002-101-004-013",
+        "Description": "LM 2 12X1",
+        "Remaining": 5,
+        "Storage": 4.0
+    },
+    {
+        "SKU": "002-101-004-014",
+        "Description": "LM 2 16Kg",
+        "Remaining": 5,
+        "Storage": 3.0
+    },
+    {
+        "SKU": "002-101-004-018",
+        "Description": "LM 2 4KG",
+        "Remaining": 8,
+        "Storage": 6.0
+    },
+    {
+        "SKU": "002-101-005-033",
+        "Description": "MIX 2T 6X1LT",
+        "Remaining": 1,
+        "Storage": 1.0
+    },
+    {
+        "SKU": "002-101-005-036",
+        "Description": "MIX 2T 80X200cc",
+        "Remaining": 8,
+        "Storage": 8.0
+    },
+    {
+        "SKU": "002-101-009-072",
+        "Description": "PARAFLU BLUE 24X1",
+        "Remaining": 9,
+        "Storage": 9.0
+    },
+    {
+        "SKU": "002-101-009-083",
+        "Description": "PARAFLU BLUE 6X4-18oC",
+        "Remaining": 9,
+        "Storage": 9.0
+    },
+    {
+        "SKU": "002-101-009-090",
+        "Description": "PARAFLU GREEN -18 24X1LIT",
+        "Remaining": 5,
+        "Storage": 4.0
+    },
+    {
+        "SKU": "002-101-009-089",
+        "Description": "PARAFLU GREEN -25oc 24X1",
+        "Remaining": 5,
+        "Storage": 4.0
+    },
+    {
+        "SKU": "002-101-009-106",
+        "Description": "PARAFLU RED -18 24X1",
+        "Remaining": 5,
+        "Storage": 5.0
+    },
+    {
+        "SKU": "002-101-009-112",
+        "Description": "PARAFLU RED -25oC 24X1",
+        "Remaining": 5,
+        "Storage": 5.0
+    },
+    {
+        "SKU": "002-101-009-108",
+        "Description": "PARAFLU RED -25oC G12 24X1",
+        "Remaining": 5,
+        "Storage": 5.0
+    },
+    {
+        "SKU": "002-101-001-127",
+        "Description": "ROCKSYN 10W-40 24X1",
+        "Remaining": 10,
+        "Storage": 9.0
+    },
+    {
+        "SKU": "002-101-001-129",
+        "Description": "ROCKSYN 10W-40 6X4LIT",
+        "Remaining": 4,
+        "Storage": 4.0
+    },
+    {
+        "SKU": "002-101-001-133",
+        "Description": "ROCKSYN 5W-30 24X1",
+        "Remaining": 5,
+        "Storage": 5.0
+    },
+    {
+        "SKU": "002-101-004-027",
+        "Description": "RS 3 4KG",
+        "Remaining": 5,
+        "Storage": 5.0
+    },
+    {
+        "SKU": "002-101-007-007",
+        "Description": "TRAC TRAN 9 18LIT",
+        "Remaining": 6,
+        "Storage": 6.0
+    },
+    {
+        "SKU": "002-101-007-016",
+        "Description": "TRAC TRAN 9 6X4",
+        "Remaining": 3,
+        "Storage": 3.0
+    },
+    {
+        "SKU": "001-007-999-016",
+        "Description": "\u03a5\u0393\u03a1\u039f \u0393\u0399\u0391 \u0391\u0394\u03a1\u0391\u03a7\u03a4\u0399\u0391 \u039b\u0395\u039c\u039f\u039d\u0399 13\u039b\u03a4",
+        "Remaining": 5,
+        "Storage": 5.0
+    },
+    {
+        "SKU": "002-101-009-148",
+        "Description": "\u03a5\u0393\u03a1\u039f \u03a0\u0391\u03a1\u039c\u03a0\u03a1\u0399\u0396 WINTER 48X200cc",
+        "Remaining": 2,
+        "Storage": 2.0
+    },
+    {
+        "SKU": "002-101-009-150",
+        "Description": "\u03a5\u0393\u03a1\u039f \u03a0\u0391\u03a1\u039c\u03a0\u03a1\u0399\u0396 WINTER 4X4",
+        "Remaining": 10,
+        "Storage": 9.0
+    }
+]
