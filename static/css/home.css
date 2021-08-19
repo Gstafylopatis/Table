@@ -1,0 +1,7 @@
+.base {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 40vh;
+  text-align: center;
+}
