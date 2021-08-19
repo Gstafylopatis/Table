@@ -1,0 +1,28 @@
+.table-common {
+  font-family: Arial, Helvetica, sans-serif;
+
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table-common thead {
+  background: #04aa6d;
+  color: white;
+  text-align: center;
+}
+
+.table-common tbody {
+  text-align: center;
+}
+
+.table-common tbody tr:nth-child(odd) {
+  background: #ddd;
+}
+.table-common thead th {
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+}
+
+.table-common .th-sort-asc::after {
+  content: "\25b4";
+}
