@@ -1,4 +1,5 @@
 import { Table } from "../../modules/Table/table.js";
+import { makeHeadersClickable } from "../../modules/Table/tableHelper/tableUtils.js";
 
 //Get which table to load
 const tableName = document.querySelector(".table-module").getAttribute("table");
@@ -16,6 +17,7 @@ async function createTable() {
 
   //Append the Table created by Table module to the tableDiv
   tableDiv.appendChild(Table(data, headers(), tableName));
+  makeHeadersClickable(tableDiv);
 }
 
 const headers = () => {
