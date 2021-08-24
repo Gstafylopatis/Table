@@ -1,3 +1,5 @@
+@import 'table-sort.css';
+
 .table-common {
   font-family: Arial, Helvetica, sans-serif;
 
@@ -21,8 +23,4 @@
 .table-common thead th {
   padding-top: 0.8rem;
   padding-bottom: 0.8rem;
-}
-
-.table-common .th-sort-asc::after {
-  content: "\25b4";
 }

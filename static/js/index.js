@@ -1,13 +1,13 @@
-import { Table } from "../../modules/Table/table.js";
-import { makeHeadersClickable } from "../../modules/Table/tableHelper/tableUtils.js";
+import {Table} from '../../modules/Table/table.js';
+import {makeTableSortable} from '../../modules/Table/tableHelper/tableUtils.js';
 
 //Get which table to load
-const tableName = document.querySelector(".table-module").getAttribute("table");
-const tableDiv = document.querySelector(".table");
+const tableName = document.querySelector('.table-module').getAttribute('table');
+const tableDiv = document.querySelector('.table');
 let data = {};
 
 //Event Listener
-document.addEventListener("DOMContentLoaded", createTable);
+document.addEventListener('DOMContentLoaded', createTable);
 
 async function createTable() {
   // Read JSON file
@@ -17,7 +17,7 @@ async function createTable() {
 
   //Append the Table created by Table module to the tableDiv
   tableDiv.appendChild(Table(data, headers(), tableName));
-  makeHeadersClickable(tableDiv);
+  makeTableSortable(tableDiv.querySelector('table'));
 }
 
 const headers = () => {
