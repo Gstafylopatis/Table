@@ -9,6 +9,7 @@ export const tableHead = headers => {
 
     headerRow.appendChild(headerCell);
   }
+  headerRow.classList.add("filterRow");
 
   tableHead.appendChild(headerRow);
 
